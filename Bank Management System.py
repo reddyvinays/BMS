@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from abc import ABCMeta, abstractmethod
 from random import randint
 
@@ -127,8 +121,6 @@ while True:
     elif userChoice is 3:
         quit()
 
-
-# In[ ]:
 
 
 
